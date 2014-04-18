@@ -1,4 +1,4 @@
-flatcolors
+flat-colors
 ==========
 
 flatuicolors in less variables
